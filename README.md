@@ -6,4 +6,4 @@
 - currently working on: javascript certification
 - fun fact: i love rhythm games and metal music <3
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,wordpress)](https://skillicons.dev)
